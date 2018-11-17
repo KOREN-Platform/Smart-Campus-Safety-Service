@@ -1,5 +1,5 @@
 ![Architecture](./images/task3-1.png)
-<br> "          "컨테이너기반 Smart Campus Safety 서비스 워크 플로우 개념 및 Web 기반 UI <br>
+<br>컨테이너기반 Smart Campus Safety 서비스 워크 플로우 개념 및 Web 기반 UI <br>
 
 * 컨테이너 기반 Smart Campus Safety 서비스 워크플로우 설계
   - Smart Campus Safety 서비스 실증을 위해 분산 CCTV 기기들이 운용되는 사이트와 Control Room 기능을 수행하는 사이트를 고려하여, 각 사이트의 역할에 맞는 요소기능들을 배치하고, 상호 연결되어 동작할 수 있도록 설정해야한다.
